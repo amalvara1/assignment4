@@ -57,5 +57,11 @@ section {
     max-width: 600px;
 }
 
+.text-jake-stinks {
+    position: absolute;
+    top: 0;
+    color:white;
+    padding: 275px 50px;
+}
 
 
