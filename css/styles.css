@@ -64,4 +64,21 @@ section {
     padding: 275px 50px;
 }
 
+.record {
+    transition: .5s;
+    position: relative;
+}
+
+.record:hover {
+    animation: movement 5s;
+}
+
+@keyframes movement {
+    from{
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg)
+    }
+}
 
