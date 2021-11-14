@@ -12,3 +12,50 @@ nav {
 h2 {
     margin-bottom: 10px;
 }
+
+p {
+    margin: 30px;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 99;
+}
+
+header nav {
+    margin-left: 80px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+
+}
+
+header li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+main.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+section {
+    margin: 40px;
+}
+
+.jake-stinks {
+    position: relative;
+    max-width: 600px;
+}
+
+
+
