@@ -73,6 +73,10 @@ section {
     animation: movement 5s;
 }
 
+.all-too-well {
+    float:right;
+}
+
 @keyframes movement {
     from{
         transform: rotateZ(0deg);
