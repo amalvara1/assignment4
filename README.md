@@ -8,3 +8,4 @@ Fall 2021 semester - MMC5277
 > I, Andrea Alvarado, have read the point deduction list and understand that I will lose points for missing items.
 
 ## Images
+![Taylor Swift Red Record](http://andreamalvarado.com/assignment4/images/taylorsrecord.png)
